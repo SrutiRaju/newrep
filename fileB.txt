@@ -1,0 +1,2 @@
+This file was changed after the repository was cloned into my local machine. I renamed the file to fileC.txt and commited
+to local repository. I wanted to check what happens when I push the changes.
